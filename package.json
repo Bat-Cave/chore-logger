@@ -66,5 +66,8 @@
 			"esbuild",
 			"@tailwindcss/oxide"
 		]
+	},
+	"dependencies": {
+		"date-fns": "^4.1.0"
 	}
 }
